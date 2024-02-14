@@ -9,6 +9,7 @@ let messages = [
   'Di que si',
   'Mira el otro botón',
   'Yo se que quieres',
+  'Cuando nos casamos?',
 ]
 
 buttonNo.addEventListener('click', () => {
